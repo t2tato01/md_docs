@@ -1,4 +1,4 @@
-# :rocket::star_struck: Welcome to my Markdown-powered website! :star_struck::rocket:
+# 🚀 Welcome to my Markdown-powered website! 🚀
 
 # Free Choice Extra Assignment Bundle E
 
