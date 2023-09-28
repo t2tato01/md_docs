@@ -1,19 +1,19 @@
-# Website Title
+# :rocket: Welcome to my Markdown-powered website! :rocket:
 
-## Table of Contents
+# Free Choice Extra Assignment Bundle E
 
-1. [Section 1](#section-1)
-2. [Section 2](#section-2)
-3. [Section 3](#section-3)
+Use Github Pages and use markdown language syntax (not HTML) to create a basic static website:
 
-## Section 1
+- The website must be public.
+- Use at least a handful of Github flavour markdown features to format the web page.
+- Document your work progress with a few screenshots to the learning diary.
+- Write the Github page address to the learning diary so that your peer reviewers can verify it easily.
+- Keep the pages available until you have received your course grade.
 
-Add the content for Section 1 here.
 
-## Section 2
+## [ GitHub-flavored Markdown features]
 
-Add the content for Section 2 here.
+[ GitHub-flavored Markdown features](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-## Section 3
-
-Add the content for Section 3 here.
+<span style="color:red">Autumn 2023</span>
+<span style="color:blue">Cloud Services ID00CS45-3007</span>
